@@ -1,5 +1,3 @@
-package br.com.gabriel.aula2;
-
 public class TposPrimitivos {
 
     public static void main(String[] args) {
