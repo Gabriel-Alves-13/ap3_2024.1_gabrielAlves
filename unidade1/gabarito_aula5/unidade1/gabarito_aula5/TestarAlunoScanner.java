@@ -2,8 +2,6 @@ package unidade1.gabarito_aula5;
 
 import java.util.Scanner;
 
-import javax.swing.plaf.synth.SynthSplitPaneUI;
-
 public class TestarAlunoScanner {
     public static void main(String[] args) {
         Aluno umAluno = new Aluno();
