@@ -1,6 +1,14 @@
 package br.com.ap3.gabriel.Questao3;
 
 import java.util.Scanner;
+/* 
+ *Codigo Secreto = 950460735
+ * explicação da classe
+ * 
+ * @author GabrielAlves
+ * @since 14/08/2024
+ * 
+ */
 
 public class QuestaoLatao {
 
@@ -17,7 +25,9 @@ public class QuestaoLatao {
         double zinco = latao * 0.3;
 
 
-        System.out.println("para que a liga seja feita, será nescessario " + cobre + " quilogramas de cobre e " + zinco + " quilogramas de zinco");
+        System.out.println("para que a liga seja feita, será nescessario " + cobre + 
+        " quilogramas de cobre e " + zinco + " quilogramas de zinco");
+        teclado.close();
     }
 
 

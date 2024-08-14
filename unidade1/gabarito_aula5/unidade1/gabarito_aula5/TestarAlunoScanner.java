@@ -24,6 +24,7 @@ public class TestarAlunoScanner {
         umAluno.setNota3(nota3);
         umAluno.setNomeDaMae(nomeDaMae);
         //print aluno
+        teclado.close();
 
     System.out.println(umAluno);
 
