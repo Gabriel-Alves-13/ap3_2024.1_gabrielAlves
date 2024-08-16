@@ -10,7 +10,7 @@ public class TestarListaAlunos {
             Aluno mae = new Aluno();
             mae.setNome ("Mae"+ i);
             mae.setNota1(5);
-                
+        
         System.out.println(mae);
         }
     }
