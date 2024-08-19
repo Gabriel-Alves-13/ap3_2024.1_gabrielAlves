@@ -1,5 +1,8 @@
 package br.com.ap3.gabriel.Questao1;
 
+//Xico - Corrigindo: Falta codigo secreto
+//Xico - Corrigindo: Falta javadoc
+
 import java.util.Scanner;
 
 public static void main(String[] args) {
