@@ -25,13 +25,9 @@ public class Produto {
                 this.quantidade = quantidade;
         }
 
-        produto.adicionar("escova", 3);
-        
-
-        /*
-         * pasta (10)
-         * escova (3)
-         * shanpoo (5)
-         */
+        @Override
+        public String toString() {
+                return "Produto [nome=" + nome + ", quantidade=" + quantidade + "]";
+        }
     
 }
